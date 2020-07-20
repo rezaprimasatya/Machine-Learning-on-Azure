@@ -3,8 +3,7 @@
 In this course, we'll provide you with an introduction to the fantastic world of machine learning (ML). We will first help you understand the overall place of machine learning in the broader context of computer science. We'll take you through its history, perspectives, approaches, challenges, essential tools, and fundamental processes.
 
 
-<br />
-##**Training a Model**
+##**Training a Model**<br />
 
 <br />
 After that, we will focus on the core machine learning process: training a model. We'll cover the entire chain of tasks, from data import, transformation, and management to training, validating, and evaluating the model.
