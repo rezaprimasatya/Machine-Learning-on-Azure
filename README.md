@@ -1,2 +1,2 @@
-# Machine-Learning-on-Azure
-Machine Learning on Azure
+# Machine Learning on Azure
+Microsoft Azure ML Foundations Course provided by Udacity.
